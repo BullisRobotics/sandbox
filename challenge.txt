@@ -3,7 +3,7 @@ Test your sourceTree skills! Each person will get there name on a line.
 You can talk together and do whatever you need, but each person needs to make a change, and you should end up with all of your names on a different numbered line. 
 
 
-1
+1 Jasmine
 2 Gemmmmmmmma Sunwertyuio
 3
 4
