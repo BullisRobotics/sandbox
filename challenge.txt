@@ -3,15 +3,9 @@ Test your sourceTree skills! Each person will get there name on a line.
 You can talk together and do whatever you need, but each person needs to make a change, and you should end up with all of your names on a different numbered line. 
 
 
-<<<<<<< HEAD
 1
 2 Gemma Sun
 3
-=======
-1Jasmine
-2
-3. Joanna Wang =D
->>>>>>> 874925346d71362ecb37c253c1a90f89938c179a
 4
 5
 6
