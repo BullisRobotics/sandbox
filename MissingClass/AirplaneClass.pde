@@ -9,7 +9,7 @@ public class Airplane{
  int mySides;
  
  // ************ Missing Constructor ********************
- 
+ //
  
  //When written correctly, this method will change the altitude based on the current velocity
  public void fly(){
